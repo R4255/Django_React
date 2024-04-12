@@ -1,3 +1,7 @@
+Used Python and JavaScript to create a full-stack web application.
+We have used Django for the backend & React for the frontend as well as implementing authentication using JWT tokens.
+This is a Note Making Application.
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
